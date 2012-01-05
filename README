@@ -2,13 +2,15 @@ These files are the plans for the "Rugged Outdoor Time Lapse" project
 that was featured in the September 2011 issue of Popular Science.  Look 
 at the instructions file for more information.
 
+./images - Pictures of details of building the project.
+
 ./PCB - Circuit schematic and board layout.  Express PCB files plus
   images of the trace layers and mechanical drawings of the board.
-
-./time_lapse_code - Arduino code
 
 ./parts - Bill of Materials and parts sourcing information
 
 ./schematic - The schematic for the circuit
 
-instructions.txt - Instructions for building this project
+./time_lapse_code - Arduino code
+
+instructions - Instructions for building this project
