@@ -1,5 +1,6 @@
 /*
  * Radio Shack - Rugged Outdoor Time Lapse 
+ * Version 1.0
  *
  * This code drives a modified Canon powershot camera in a 
  * ruggedized, solar powered, very long term time lapse setup.
