@@ -2,6 +2,8 @@ These files are the plans for the "Rugged Outdoor Time Lapse" project
 that was featured in the September 2011 issue of Popular Science.  Look 
 at the instructions file for more information.
 
+./front_panel - Files for making the control panel.
+
 ./images - Pictures of details of building the project.
 
 ./PCB - Circuit schematic and board layout.  Express PCB files plus
