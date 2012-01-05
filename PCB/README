@@ -1,0 +1,32 @@
+The files in this directory pertain to the printed circuit board design.
+
+The .sch and .pcb files are in the ExpressPCB file format.  You can also purchase
+a board from me (vlm@2552.com).
+
+Even if you don't choose to have your board professionally made, the mechanical
+drawings, pictures of component placement, and the PDFs of the board layers
+are in this directory.
+
+PCBComponents_Custom/ - custom ExpressPCB components for this project
+
+SchComponents_Custom/ - custom ExpressPCB schematic symbols for this project
+
+pcb_bottom_traces.pdf - Traces on the bottom side of the board
+
+pcb_components.bmp - Component placement and silkscreen
+
+pcb_mechanical.AD_DRW - This PCB as an Alibre Design 3D part
+
+pcb_mechanical.dxf - DXF of this PCB
+
+pcb_mechanical.pdf - PDF of the PCB with dimensions
+
+pcb_silkscreen.pdf - The silkscreen layer
+
+pcb_top_traces.pdf - Traces on the top side of the board
+
+rs_time_lapse.pcb - PCB in ExpressPCB file format
+
+rs_time_lapse.sch - Schematic in ExpressPCB file format
+
+

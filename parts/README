@@ -1,0 +1,8 @@
+The files in this directory contain information on sourcing parts for this 
+project.
+
+circuit_board_BOM - A chart correlating part numbers on the schematic and 
+  PCB to actual parts.
+
+ordering_BOM - A Bill of Materials for ordering parts for this project.
+
