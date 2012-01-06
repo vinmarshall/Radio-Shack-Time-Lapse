@@ -124,9 +124,14 @@ void loop() {
   /*
    * At the end of an interval if the sun is out and the camera is 
    * enabled, shoot a picture.
+   *
+   * The second line of this test handles rollovers - it ensures that
+   * if there has been a rollover, then both our lastMillis + interval 
+   * timer AND the millis() timer have both rolled over.
    */
 
-  if (millis() > (lastMillis + interval)) {
+  if ( (millis() > (lastMillis + interval)) &&
+       ( (lastMillis + interval > lastMillis) || (millis() < lastMillis) ) ) {
 
     // Print debugging info 
     if (DEBUG) { 
